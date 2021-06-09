@@ -1,2 +1,2 @@
 # stepik-pytest-languages
-Run tests with language as a parametr using pytest
+Run tests with language as a parameter using pytest
